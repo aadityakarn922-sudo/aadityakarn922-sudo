@@ -29,7 +29,7 @@ Some of the languages I work with include: **C++, C, Python, JavaScript**, and m
 Feel free to reach out to me through any of these platforms:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/karn_aaditya/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:081bct001@ioepc.edu.np)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat)](https://aadityakarn922-sudo.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat)](https://aadityakarn922.github.io/_Portfolio/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/aadi.tya.5496)
 
 <p align="right">
