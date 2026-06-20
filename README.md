@@ -9,7 +9,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aadityakarn922&label=Profile%20Views&color=brightgreen&style=flat)
 
-
+![README Grade](https://img.shields.io/badge/README-A+-brightgreen)
 
 
 
