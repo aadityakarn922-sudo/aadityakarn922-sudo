@@ -9,3 +9,7 @@
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=aadityakarn922&theme=tokyonight)
+
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=aadityakarn922&color=blue&style=flat-square)
