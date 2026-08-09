@@ -1,6 +1,6 @@
 ## 📊 GitHub Stats
 
-(https://github-readme-stats.vercel.app/api?username=aadityakarn922&show_icons=true&theme=tokyonight)
+![Aaditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadityakarn922&show_icons=true&theme=tokyonight)
 
 ## 💻 Most Used Languages
 
