@@ -1,17 +1,15 @@
-# 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-### 📈 GitHub Stats
+![Aaditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadityakarn922&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api?username=aadityakarn922&show_icons=true&theme=tokyonight&hide_border=true" alt="Aaditya's GitHub Stats" />
+## 💻 Most Used Languages
 
-### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadityakarn922&layout=compact&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadityakarn922&layout=compact&theme=tokyonight&hide_border=true" alt="Aaditya's Most Used Languages" />
+## 🔥 GitHub Streak
 
-### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=aadityakarn922&theme=tokyonight)
 
-<img src="https://streak-stats.demolab.com/?user=aadityakarn922&theme=tokyonight&hide_border=true" alt="Aaditya's GitHub Streak" />
+## 👀 Profile Views
 
-### 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=aadityakarn922&color=blue&style=flat-square" alt="Profile Views" />
+![Profile Views](https://komarev.com/ghpvc/?username=aadityakarn922&color=blue&style=flat-square)
